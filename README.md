@@ -1,2 +1,0 @@
-# Thunnchai-INE
-INE mywebsite
